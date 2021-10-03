@@ -1,6 +1,6 @@
 # Softmax Online School (SOS)
 
-This Website Live Link :  [Create React App](https://sleepy-bohr-3aede1.netlify.app/).
+This Website Live Link :  [Create React App](https://softmaxonlineschool.netlify.app/).
 
 ## Why make it ...??
 
