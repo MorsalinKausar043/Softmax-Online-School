@@ -1,0 +1,18 @@
+.about_title{
+    font-weight: bold;
+}
+
+.about_card_title{
+    position: relative;
+}
+
+.about_card_title::before{
+    content: "";
+    display: block;
+    width: 3px;
+    height: 30px;
+    position: absolute;
+    left: -15px;
+    top: 5px;
+    background: yellow;
+}

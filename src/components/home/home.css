@@ -1,0 +1,26 @@
+.img{
+    height: 500px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.card{
+    box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, .2),
+                -1px -1px 5px 0px rgba(0, 0, 0, .2)
+}
+
+.card_img{
+    width: 100%;
+    height: 200px;
+}
+
+.card_footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}

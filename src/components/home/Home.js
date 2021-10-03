@@ -1,9 +1,23 @@
 import React from 'react';
+import { Container, Row , Col } from 'react-bootstrap';
+import Carousel from './Carousels';
+import Card from "./Card";
 
 const Home = () => {
     return (
         <>
-            <h2>hello world this is home page!</h2>
+            <Container fluid>
+                <Row>
+                    <Col className="my-2">
+                        <Carousel/>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col>
+                        <Card/>
+                    </Col>
+                </Row>
+            </Container>
         </>
     );
 };

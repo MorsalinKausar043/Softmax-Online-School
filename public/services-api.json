@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1 ,
+        "title" : "এডোবি ইলাস্ট্রেটর সিসি ২০২১ পরিপূর্ণ গ্রাফিক ডিজাইন টিউটোরিয়াল কোর্স",
+        "institiut" : "softmaxonlineschool",
+        "technology" : "Adobe Illustrator",
+        "image" : "https://www.kadalin.com/wp-content/uploads/2021/04/adobe-illustrator-free-download-full-version-windows.jpg",
+        "taka" : "600"
+    },
+    {
+        "id" : 2 ,
+        "title" : "লোগো এবং কর্পোরেট ব্রান্ডিং ডিজাইন ভিডিও টিউটোরিয়াল কোর্স",
+        "institiut" : "softmaxonlineschool",
+        "technology" : "Adobe Illustrator",
+        "image" : "https://st2.depositphotos.com/1385144/7175/v/600/depositphotos_71759109-stock-illustration-free-education-logo-concept.jpg",
+        "taka" : "650"
+    },
+    {
+        "id" : 3 ,
+        "title" : "এডোবি ফটোশপ সিসি ২০২১ পরিপূর্ণ গ্রাফিক ডিজাইন টিউটোরিয়াল কোর্স",
+        "institiut" : "softmaxonlineschool",
+        "technology" : "Adobe Photoshop",
+        "image" : "https://i0.wp.com/crackphilia.com/wp-content/uploads/2020/09/Adobe-Photoshop-CC-2021-Crack.jpg?fit=896%2C504&ssl=1",
+        "taka" : "490"
+    },
+    {
+        "id" : 4 ,
+        "title" : "সিভিল ইঞ্জিনিয়ারদের জন্য অটোক্যাডঃ ২ডি । ৩ ডি । কন্সট্রাকশন ড্রয়িং",
+        "institiut" : "softmaxonlineschool",
+        "technology" : "Auto CAD",
+        "image" : "https://cdn.educba.com/academy/wp-content/uploads/2019/02/Introduction-to-AutoCAD.jpg",
+        "taka" : "599"
+    },
+    {
+        "id" : 5 ,
+        "title" : "অটোক্যাড ২০২০ টিউটোরিয়াল- আর্কিটেক্ট। মেকানিক্যাল।ইলেক্ট্রিক্যাল",
+        "institiut" : "softmaxonlineschool",
+        "technology" : "Auto CAD",
+        "image" : "https://s3-ap-southeast-1.amazonaws.com/rokomari110/ProductNew20190903/260X372/c022e7723_180494.jpg",
+        "taka" : "630"
+    },
+    {
+        "id" : 6 ,
+        "title" : "ডিপ্লোমা ইন ইঞ্জিনিয়ারিং ( ফিজিক্স ১ )",
+        "institiut" : "softmaxonlineschool",
+        "technology" : "diploma in engineering",
+        "image" : "https://m.media-amazon.com/images/I/51d3amnGaUL.jpg",
+        "taka" : "530"
+    },
+    {
+        "id" : 7 ,
+        "title" : "ডিপ্লোমা ইন ইঞ্জিনিয়ারিং ( ফিজিক্স ২ )",
+        "institiut" : "softmaxonlineschool",
+        "technology" : "diploma in engineering",
+        "image" : "https://5.imimg.com/data5/WD/XV/GLADMIN-2954845/applied-physics-ii-500x500.png",
+        "taka" : "620"
+    }
+]

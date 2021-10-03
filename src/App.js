@@ -7,6 +7,7 @@ import About from "./components/about/About";
 import Services from "./components/services/Services";
 import Error from "./components/error/Error";
 import Footer from "./components/footer/Footer";
+import Blog from './components/blog/Blog';
 
 
 const App = () => {
@@ -23,6 +24,9 @@ const App = () => {
           </Route>
           <Route path="/services">
             <Services></Services>
+          </Route>
+          <Route path="/blog">
+            <Blog></Blog>
           </Route>
           <Route exact path="*">
             <Error></Error>

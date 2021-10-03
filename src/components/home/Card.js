@@ -1,24 +1,24 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import "./services.css";
+import { NavLink } from 'react-router-dom';
+import "./home.css";
 import useApiData from '../costumHooks/useApiData';
 import { RiMoneyPoundBoxFill } from 'react-icons/ri';
 import { AiFillFolderAdd } from 'react-icons/ai';
-
-const Services = () => {
+const Card = () => {
     const [Service] = useApiData();
     return (
         <>
             <Container className="py-3">
-                <h3 className="card_title">Services</h3>
+                <h3>Services</h3>
                 <Row className="cards">
                     {
-                        Service.map((crrElm) => {
+                        Service.slice(3).map((crrElm) => {
                             const { id,title,image , institiut , taka , technology} = crrElm;
                             return (
                                 <Col key={id} lg={3} className="m-2 card">
                                     <div>
-                                        <figure title="Service Provide image">
+                                        <figure>
                                             <img src={image} className="card_img" alt="service_img" />
                                         </figure>
                                     </div>
@@ -36,9 +36,12 @@ const Services = () => {
                         })
                     }
                 </Row>
+                <div className="text-end">
+                    <NavLink to="/services"> See More</NavLink>
+                </div>
             </Container>
         </>
     );
 };
 
-export default Services;
+export default Card;
