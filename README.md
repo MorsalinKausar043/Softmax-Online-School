@@ -4,6 +4,6 @@ This Website Live Link :  [Create React App](https://sleepy-bohr-3aede1.netlify.
 
 ## Why make it ...??
 
-###### 1 . This is a dating website!
-###### 2 . Through this the success story of a successful programmer can be heard. How he has been saffron. He has come so far.
-###### 3 . As a result, newcomers will be inspired and will dare to do something new!
+###### 1 . From this website coaching is done in all subjects of Diploma in Engineering and it is a virtual coaching center.
+###### 2 . Anyone can coach online from anywhere.
+###### 3 . Classes are conducted by multiple teachers at low cost. From which all the diploma students of Bangladesh can easily coach.
